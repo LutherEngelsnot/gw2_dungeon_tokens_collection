@@ -1,14 +1,14 @@
 import json
 import urllib2
 
-tokens = {1725:["Ascalonian Tears",5],
-          1723:["Seals of Beetletun",9],
-          1721:["Deadly Blooms",11],
-          1722:["Manifestos of the Moletariate",10],
-          1714:["Flame Legion Charr Carvings",13],
-          1718:["Symbols of Koda",12],
-          1719:["Knowledge Crystal",14],
-          1724:["Shards of Zhaitan",6]}
+tokens = {1725:["Ascalonian Tears",4],
+          1723:["Seals of Beetletun",7],
+          1721:["Deadly Blooms",9],
+          1722:["Manifestos of the Moletariate",8],
+          1714:["Flame Legion Charr Carvings",11],
+          1718:["Symbols of Koda",10],
+          1719:["Knowledge Crystal",12],
+          1724:["Shards of Zhaitan",5]}
 
 costs = {'Boots':180,
          'Coat':330,
