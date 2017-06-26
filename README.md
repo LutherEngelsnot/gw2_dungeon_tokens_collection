@@ -7,7 +7,7 @@ Python3 script uses the moduls sys, urlib.request and json
 Just download dungeon_tokens_func.py and dungeon_tokens.py and store them in the same folder for the Python2 script.
 Download dungeon_tokens_func_3.py and dungeon_tokens_3.py and store them in the same folder for the Python3 script.
 ### Use
-Call the script dungeon_tokens.py (for Python2) or dungeon_tokens_3.py (for Python3) following a space and the API-key of your account
+Call the script dungeon_tokens.py (for Python2) or dungeon_tokens_3.py (for Python3) following a space and the API-key of your account. The API-key need access rights for the wallet and progression.
 ### Example
 *Python2:*
 
